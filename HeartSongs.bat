@@ -1,0 +1,1 @@
+start /d "C:\Users\joshua.whitfield\C# Projects\HeartSongs\HeartSongs\bin\Release" HeartSongs.exe
